@@ -8,6 +8,10 @@
 war/gwt_bree/
 gwt-unitCache/
 
+#tests
+test/
+test-classes/
+
 # boilerplate generated classes #
 .apt_generated/
 
@@ -15,3 +19,8 @@ gwt-unitCache/
 war/WEB-INF/deploy/
 war/WEB-INF/classes/
 
+.gwt/.gwt-log
+.project
+.classpath
+.settings
+.gwt
